@@ -11,6 +11,9 @@ const config: NextConfig = {
         search: '',
       },
     ],
+    domains: [
+      'files.stripe.com',
+    ]
   },
 }
  
